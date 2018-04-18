@@ -1,0 +1,12 @@
+compile
+tests
+test
+compile
+test
+styleCheck
+submit jiaofen.xu@primal.com KxgJMJpsYM
+compile
+test
+submit jiaofen.xu@primal.com KxgJMJpsYM
+quit
+quit()

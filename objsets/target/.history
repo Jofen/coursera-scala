@@ -1,0 +1,13 @@
+compile
+test
+compile
+test
+style-check
+styleCheck
+run
+scala Main
+compile
+submit jiaofen.xu@primal.com KxgJMJpsYM
+compile
+test
+submit jiaofen.xu@primal.com KxgJMJpsYM
